@@ -1,0 +1,8 @@
+{
+    "/mana/api": {
+        "target": "http://121.41.67.179:8088",
+        "secure": false,
+        "pathRewrite": {"^/api" : "/api"},
+        "changeOrigin":true
+    }
+}

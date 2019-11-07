@@ -1,0 +1,23 @@
+{
+  "app": {
+    "name": "好的好的对对对",
+    "description": "manager system"
+  },
+  "user": {
+    "name": "",
+    "avatar": "",
+    "email": ""
+  },
+  "menu": [
+    {
+      "group": false,
+      "children": [
+        {
+          "text": "首页",
+          "link": "/home",
+          "icon": "anticon-home"
+        }
+      ]
+    }
+  ]
+}
